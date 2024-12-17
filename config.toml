@@ -1,0 +1,7 @@
+[server]
+port = 8502 # change port number. By default streamlit uses 8501 port
+headless = true # This will eliminate automatically open browser
+
+[browser]
+serverAddress = "simracing.sylvergames.nl # Put your Local IP or Domain Name
+serverPort = 8502
